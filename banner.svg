@@ -1,9 +1,6 @@
-<svg width="800" height="260" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="100%" height="100%" fill="#000"/>
-
-  <!-- TITLE -->
-  <text x="400" y="35" fill="#ffffffaa" font-size="22" text-anchor="middle">
+<svg viewBox="0 0 800 260" xmlns="http://w3.org">
+  <!-- TITLE (Neutral gray for Light/Dark mode compatibility) -->
+  <text x="400" y="35" fill="#888" font-size="22" font-family="sans-serif" text-anchor="middle">
     Computational Nanomaterials • DFT • MD • ML
   </text>
 
@@ -38,49 +35,51 @@
       <animate attributeName="stroke-opacity" dur="1.9s" values="0.4;1;0.4" repeatCount="indefinite"/>
     </line>
 
-    <!-- label -->
-    <text x="120" y="235" fill="#66ccff" font-size="16" text-anchor="middle">MD • Nanomaterials</text>
+    <text x="120" y="235" fill="#66ccff" font-size="14" font-family="sans-serif" text-anchor="middle">MD • Nanomaterials</text>
   </g>
 
   <!-- ARROW 1 -->
-  <text x="260" y="150" fill="#fff" font-size="32">➡</text>
+  <text x="260" y="155" fill="#888" font-size="24">➡</text>
 
   <!-- SECTION 2 — DFT ELECTRON DENSITY -->
   <g id="dft">
-    <circle cx="350" cy="150" r="25" fill="none" stroke="#ffaa00" stroke-width="3">
+    <circle cx="360" cy="150" r="25" fill="none" stroke="#ffaa00" stroke-width="3">
       <animate attributeName="r" dur="2.2s" values="22;32;24;25" repeatCount="indefinite"/>
     </circle>
-    <circle cx="350" cy="150" r="45" fill="none" stroke="#ffaa00" stroke-width="2" opacity="0.4">
+    <circle cx="360" cy="150" r="45" fill="none" stroke="#ffaa00" stroke-width="2" opacity="0.4">
       <animate attributeName="opacity" dur="3s" values="0.2;0.7;0.2" repeatCount="indefinite"/>
     </circle>
-
-    <text x="350" y="235" fill="#ffaa00" font-size="16" text-anchor="middle">DFT • Electron Density</text>
+    <text x="360" y="235" fill="#ffaa00" font-size="14" font-family="sans-serif" text-anchor="middle">DFT • Electron Density</text>
   </g>
 
   <!-- ARROW 2 -->
-  <text x="460" y="150" fill="#fff" font-size="32">➡</text>
+  <text x="470" y="155" fill="#888" font-size="24">➡</text>
 
   <!-- SECTION 3 — ML NEURAL NETWORK -->
   <g id="ml">
-    <!-- input layer -->
-    <circle cx="550" cy="110" r="6" fill="#ff66aa">
-      <animate attributeName="r" dur="1.6s" values="5;8;5" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="550" cy="190" r="6" fill="#ff66aa">
-      <animate attributeName="r" dur="2s" values="5;8;5" repeatCount="indefinite"/>
+    <!-- Connections -->
+    <g stroke="#ff66aa" stroke-width="1.5" opacity="0.3">
+      <line x1="560" y1="110" x2="610" y2="100" />
+      <line x1="560" y1="110" x2="610" y2="150" />
+      <line x1="560" y1="110" x2="610" y2="200" />
+      <line x1="560" y1="190" x2="610" y2="100" />
+      <line x1="560" y1="190" x2="610" y2="150" />
+      <line x1="560" y1="190" x2="610" y2="200" />
+      <line x1="610" y1="100" x2="665" y2="150" />
+      <line x1="610" y1="150" x2="665" y2="150" />
+      <line x1="610" y1="200" x2="665" y2="150" />
+    </g>
+
+    <!-- Nodes -->
+    <circle cx="560" cy="110" r="5" fill="#ff66aa" />
+    <circle cx="560" cy="190" r="5" fill="#ff66aa" />
+    <circle cx="610" cy="100" r="5" fill="#ff66aa"><animate attributeName="opacity" dur="1.5s" values="1;0.3;1" repeatCount="indefinite"/></circle>
+    <circle cx="610" cy="150" r="5" fill="#ff66aa"><animate attributeName="opacity" dur="2s" values="1;0.3;1" repeatCount="indefinite"/></circle>
+    <circle cx="610" cy="200" r="5" fill="#ff66aa"><animate attributeName="opacity" dur="1.8s" values="1;0.3;1" repeatCount="indefinite"/></circle>
+    <circle cx="665" cy="150" r="8" fill="#ff66aa">
+      <animate attributeName="r" dur="2s" values="7;10;7" repeatCount="indefinite"/>
     </circle>
 
-    <!-- output neuron -->
-    <circle cx="650" cy="150" r="9" fill="#ffffff">
-      <animate attributeName="r" dur="2s" values="9;14;9" repeatCount="indefinite"/>
-    </circle>
-
-    <!-- connections -->
-    <line x1="550" y1="110" x2="650" y2="150" stroke="#ff66aa88" stroke-width="2"/>
-    <line x1="550" y1="190" x2="650" y2="150" stroke="#ff66aa88" stroke-width="2"/>
-
-    <!-- label -->
-    <text x="600" y="235" fill="#ff66aa" font-size="16" text-anchor="middle">Machine Learning</text>
+    <text x="612" y="235" fill="#ff66aa" font-size="14" font-family="sans-serif" text-anchor="middle">Machine Learning</text>
   </g>
-
 </svg>
