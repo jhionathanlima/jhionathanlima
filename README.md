@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Jhionathan</h1>
 
-
 ### 🎓 PhD Candidate in Computational Physics | UFPR, Brazil
 I model and investigate the properties of **nanomaterials** using a multi-scale approach, from electronic structure to large-scale simulations.
 
@@ -8,6 +7,44 @@ I model and investigate the properties of **nanomaterials** using a multi-scale 
 - 🧪 **Methodology**: Density Functional Theory (**DFT**) and Molecular Dynamics (**MD**).
 - 🤖 **Machine Learning**: Implementing **ML-Interatomic Potentials** to achieve ab-initio accuracy at MD scales.
 - 🏫 Based at the Physics Department, **Federal University of Paraná (Curitiba)**.
+
+---
+
+### 🔬 Scientific Software Stack
+*Research tools for DFT, Molecular Dynamics, and Machine Learning*
+
+<div align="center">
+  <!-- DFT Logos -->
+  <a href="https://fhi-aims.org/"><img src="https://fhi-aims.org/uploads/themes/FHIaims/logo.svg" height="40" alt="FHI-aims" title="FHI-aims"></a>
+  <img width="25" />
+  <a href="https://quantum-espresso.org"><img src="https://quantum-espresso.orgproject/logos/Quantum_espresso_logo.jpg" height="45" alt="Quantum ESPRESSO" title="Quantum ESPRESSO"></a>
+  <img width="25" />
+  <a href="https://vasp.at"><img src="https://vasp.atmedia/logo.png" height="45" alt="VASP" title="VASP"></a>
+  <img width="25" />
+  <a href="https://siesta-project.org"><img src="https://siesta-project.orgsiesta/siesta_logo.png" height="45" alt="SIESTA" title="SIESTA"></a>
+</div>
+
+<br />
+
+<div align="center">
+  <!-- MD & ML Logos -->
+  <a href="https://lammps.org"><img src="https://lammps.orgimages/lammps-logo.png" height="55" alt="LAMMPS" title="LAMMPS"></a>
+  <img width="35" />
+  <a href="https://gpumd.org"><img src="https://gpumd.org_images/gpumd_logo.png" height="55" alt="GPUMD" title="GPUMD"></a>
+  <img width="35" />
+  <a href="https://deepmd.org"><img src="https://deepmd.orgassets/images/logo.png" height="45" alt="DeepMD-kit" title="DeepMD-kit"></a>
+</div>
+
+<div align="center">
+  <!-- Visualization & Analysis Logos -->
+  <a href="https://dtu.dk"><img src="https://dtu.dk_static/ase_logo.png" height="50" alt="ASE" title="Atomic Simulation Environment (ASE)"></a>
+  <img width="30" />
+  <a href="https://ovito.org"><img src="https://ovito.orgwp-content/uploads/2021/01/ovito_logo_site.png" height="50" alt="OVITO" title="OVITO"></a>
+  <img width="30" />
+  <a href="https://uiuc.edu"><img src="https://uiuc.eduvmd_logo_small.jpg" height="50" alt="VMD" title="Visual Molecular Dynamics (VMD)"></a>
+  <img width="30" />
+  <a href="https://jp-minerals.org"><img src="https://jp-minerals.orgimages/VESTA_logo.png" height="50" alt="VESTA" title="VESTA"></a>
+</div>
 
 ---
 
