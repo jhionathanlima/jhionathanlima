@@ -3,14 +3,27 @@
 ### 🎓 PhD Candidate in Computational Physics | UFPR, Brazil
 I model and investigate the properties of **nanomaterials** using a multi-scale approach, from electronic structure to large-scale simulations.
 
-- 🔬 **Research Focus**: Investigating [Ex: Thermal/Electronic/Mechanical] properties of nanomaterials.
-- 🧪 **Methodology**: Density Functional Theory (**DFT**) and Molecular Dynamics (**MD**).
-- 🤖 **Machine Learning**: Implementing **ML-Interatomic Potentials** to achieve ab-initio accuracy at MD scales.
-- 🏫 Based at the Physics Department, **Federal University of Paraná (Curitiba)**.
-
 ---
 
 ### 🔬 Scientific Software Stack
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fortran" height="60" alt="fortran logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=latex" height="60" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="60" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
+</div>
+
+###
 *Research tools for DFT, Molecular Dynamics, and Machine Learning*
 
 <div align="center">
