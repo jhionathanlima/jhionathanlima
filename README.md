@@ -3,6 +3,10 @@
 ### 🎓 PhD Candidate in Computational Physics | UFPR, Brazil
 I model and investigate the properties of **nanomaterials** using a multi-scale approach, from electronic structure to large-scale simulations.
 
+<p align="center">
+  <img src="./banner.svg?v=1" width="800">
+</p>
+
 ###
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4+_citations-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.br/citations?user=8q0PxB0AAAAJ&hl=pt-BR)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2404--7789-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2404-7789)
@@ -81,10 +85,5 @@ I model and investigate the properties of **nanomaterials** using a multi-scale 
   <code>Eψ = Hψ</code> — <i>"In a world of atoms, data is our microscope."</i>
 </div>
 
----
 
-<!--![Nanomaterials Banner](./banner.svg)  -->
 
-<p align="center">
-  <img src="./banner.svg" width="800">
-</p>
