@@ -13,6 +13,14 @@ I model and investigate the properties of **nanomaterials** using a multi-scale 
 ###
 ---
 
+### 🔬 Research Interests
+
+- **Electronic Structure Calculations (DFT):** Investigating band gaps, DOS, and charge density in 2D materials.
+- **Molecular Dynamics (MD):** Thermal transport and mechanical properties of carbon-based nanostructures.
+- **High-Performance Computing (HPC):** Optimization of scripts for cluster environments (Slurm/PBS).
+
+---
+
 ### 🔬 Scientific Software Stack
 
 ###
@@ -67,4 +75,8 @@ I model and investigate the properties of **nanomaterials** using a multi-scale 
   <a href="https://uiuc.edu"><img src="https://assets.exxactcorp.com/img/global/logo/software/VMD-Logo.png" height="50" alt="VMD" title="Visual Molecular Dynamics (VMD)"></a>
   <img width="30" />
   <a href="https://jp-minerals.org"><img src="https://jp-minerals.org/vesta/img/banner-logo.png" height="50" alt="VESTA" title="VESTA"></a>
+</div>
+
+<div align="center">
+  <code>Eψ = Hψ</code> — <i>"In a world of atoms, data is our microscope."</i>
 </div>
