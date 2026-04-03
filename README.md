@@ -20,15 +20,17 @@ I model and investigate the properties of **nanomaterials** using a multi-scale 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=latex" height="60" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="60" alt="markdown logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fortran" height="60" alt="fortran logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=latex" height="60" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="60" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
 </div>
 
 ###
