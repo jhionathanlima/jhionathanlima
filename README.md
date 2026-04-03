@@ -1,6 +1,7 @@
-<h1 align="center">Hi there, I'm Jhionathan</h1>
+<h1 align="center">Hi there, I'm Jhionathan. Teaching machines how atoms dance.</h1>
 
 ### 🎓 PhD Candidate in Computational Physics | UFPR, Brazil
+
 I model and investigate the properties of **nanomaterials** using a multi-scale approach, from electronic structure to large-scale simulations.
 
 <p align="center">
@@ -76,14 +77,6 @@ I model and investigate the properties of **nanomaterials** using a multi-scale 
   <a href="https://uiuc.edu"><img src="https://assets.exxactcorp.com/img/global/logo/software/VMD-Logo.png" height="50" alt="VMD" title="Visual Molecular Dynamics (VMD)"></a>
   <img width="30" />
   <a href="https://jp-minerals.org"><img src="https://jp-minerals.org/vesta/img/banner-logo.png" height="50" alt="VESTA" title="VESTA"></a>
-</div>
-
-<br />
-
-<div align="center">
-  <span style="color: magenta; font-family: monospace;">
-    Teaching machines how atoms dance.
-  </span>
 </div>
 
 
