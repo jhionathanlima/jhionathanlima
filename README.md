@@ -4,7 +4,7 @@
 I model and investigate the properties of **nanomaterials** using a multi-scale approach, from electronic structure to large-scale simulations.
 
 <p align="center">
-  <img src="./banner.svg?v=2" width="800">
+  <img src="./banner.svg?v=3" width="800">
 </p>
 
 ###
