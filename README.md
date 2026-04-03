@@ -80,3 +80,5 @@ I model and investigate the properties of **nanomaterials** using a multi-scale 
 <div align="center">
   <code>Eψ = Hψ</code> — <i>"In a world of atoms, data is our microscope."</i>
 </div>
+
+---
