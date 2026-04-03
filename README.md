@@ -37,7 +37,7 @@ I model and investigate the properties of **nanomaterials** using a multi-scale 
 <div align="center">
   <!-- DFT Logos -->
   <a href="https://fhi-aims.org/"><img src="https://fhi-aims.org/uploads/themes/FHIaims/logo.svg" height="40" alt="FHI-aims" title="FHI-aims"></a>
-  <img width="25" />
+  <img width="30" />
   <a href="https://quantum-espresso.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Quantum_ESPRESSO_logo.jpg/1920px-Quantum_ESPRESSO_logo.jpg" height="45" alt="Quantum ESPRESSO" title="Quantum ESPRESSO"></a>
   <img width="25" />
   <a href="https://vasp.at"><img src="https://www.vasp.at/images/logo.png" height="45" alt="VASP" title="VASP"></a>
@@ -62,7 +62,7 @@ I model and investigate the properties of **nanomaterials** using a multi-scale 
   <img width="30" />
   <a href="https://ovito.org"><img src="https://ovito.org/_astro/ovito_logo_256.BAk4uGrH_Z1hIFve.webp" height="50" alt="OVITO" title="OVITO"></a>
   <img width="30" />
-  <a href="https://uiuc.edu"><img src="https://uiuc.eduvmd_logo_small.jpg" height="50" alt="VMD" title="Visual Molecular Dynamics (VMD)"></a>
+  <a href="https://uiuc.edu"><img src="https://assets.exxactcorp.com/img/global/logo/software/VMD-Logo.png" height="50" alt="VMD" title="Visual Molecular Dynamics (VMD)"></a>
   <img width="30" />
   <a href="https://jp-minerals.org"><img src="https://jp-minerals.org/vesta/img/banner-logo.png" height="50" alt="VESTA" title="VESTA"></a>
 </div>
