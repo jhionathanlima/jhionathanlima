@@ -78,8 +78,12 @@ I model and investigate the properties of **nanomaterials** using a multi-scale 
   <a href="https://jp-minerals.org"><img src="https://jp-minerals.org/vesta/img/banner-logo.png" height="50" alt="VESTA" title="VESTA"></a>
 </div>
 
+<br />
+
 <div align="center">
-  <code>Eψ = Hψ</code> — <i>"In a world of atoms, data is our microscope."</i>
+  <span style="color: magenta; font-family: monospace;">
+    Teaching machines how atoms dance.
+  </span>
 </div>
 
 
