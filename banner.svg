@@ -1,6 +1,5 @@
-<svg viewBox="0 0 800 260" xmlns="http://w3.org">
+<svg viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Glow Filter for Neon effect on graphics and text -->
     <filter id="glow" x="-25%" y="-25%" width="150%" height="150%">
       <feGaussianBlur stdDeviation="3" result="blur" />
       <feComposite in="SourceGraphic" in2="blur" operator="over" />
@@ -15,7 +14,6 @@
   <style>
     text { font-family: 'Segoe UI', Tahoma, sans-serif; }
 
-    /* Graphene Vibration */
     @keyframes thermal {
       0%, 100% { transform: translate(0,0); }
       25% { transform: translate(0.6px, -0.6px); }
@@ -23,7 +21,6 @@
       75% { transform: translate(0.6px, 0.6px); }
     }
 
-    /* ML Nodes Fading (On/Off effect) */
     @keyframes blink {
       0%, 100% { opacity: 0.3; }
       50% { opacity: 1; }
@@ -36,7 +33,6 @@
     @media (prefers-color-scheme: light) { .label-main { fill: #222; } .arrow { fill: #ccc; } }
   </style>
 
-  <!-- TITLE -->
   <g filter="url(#glow)">
     <text x="400" y="35" font-size="20" font-weight="bold" text-anchor="middle" class="label-main">
       COMPUTATIONAL NANOMATERIALS SCIENCE
@@ -45,7 +41,6 @@
 
   <line x1="180" y1="150" x2="600" y2="150" stroke="#888" stroke-width="0.5" stroke-dasharray="5,5" opacity="0.2" />
 
-  <!-- SECTION 1: MOLECULAR DYNAMICS (VIBRATING) -->
   <g id="md-section" filter="url(#glow)">
     <g class="vibrate" stroke="#00d4ff" stroke-width="1.5">
       <path fill="none" d="M 80 140 L 100 130 L 120 140 L 120 160 L 100 170 L 80 160 Z M 120 140 L 140 130 L 160 140 L 160 160 L 140 170 L 120 160 M 100 170 L 120 180 L 140 170 M 100 130 L 120 120 L 140 130" opacity="0.6" />
@@ -56,7 +51,6 @@
     <text x="120" y="235" fill="#00d4ff" font-family="monospace" font-size="12" text-anchor="middle">Molecular Dynamics</text>
   </g>
 
-  <!-- SECTION 2: DFT (STATIC) -->
   <g id="dft-section" filter="url(#glow)">
     <circle cx="360" cy="150" r="35" fill="url(#dftGradient)" opacity="0.6" />
     <circle cx="360" cy="150" r="12" fill="#ffaa00" />
@@ -64,7 +58,6 @@
     <text x="360" y="235" fill="#ffaa00" font-family="monospace" font-size="12" text-anchor="middle">Density Functional Theory</text>
   </g>
 
-  <!-- SECTION 3: MACHINE LEARNING (BLINKING NODES) -->
   <g id="ml-section" filter="url(#glow)">
     <g stroke="#ff66aa" stroke-width="1" opacity="0.3">
       <line x1="580" y1="110" x2="620" y2="100" /><line x1="580" y1="110" x2="620" y2="135" /><line x1="580" y1="110" x2="620" y2="170" /><line x1="580" y1="110" x2="620" y2="205" />
@@ -83,7 +76,6 @@
     <text x="625" y="235" fill="#ff66aa" font-family="monospace" font-size="12" text-anchor="middle">Machine Learning</text>
   </g>
 
-  <!-- Arrows -->
   <g filter="url(#glow)">
     <text x="250" y="155" class="arrow" font-size="20">≫</text>
     <text x="480" y="155" class="arrow" font-size="20">≫</text>
