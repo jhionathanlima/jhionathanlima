@@ -1,0 +1,86 @@
+<svg width="800" height="260" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="100%" height="100%" fill="#000"/>
+
+  <!-- TITLE -->
+  <text x="400" y="35" fill="#ffffffaa" font-size="22" text-anchor="middle">
+    Computational Nanomaterials • DFT • MD • ML
+  </text>
+
+  <!-- SECTION 1 — NANOMATERIAL + MD -->
+  <g id="nano-md">
+    <!-- animated atoms -->
+    <circle cx="120" cy="120" r="6" fill="#66ccff">
+      <animate attributeName="cy" dur="2s" values="120;125;118;120" repeatCount="indefinite"/>
+      <animate attributeName="cx" dur="2.5s" values="120;125;118;120" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="170" cy="160" r="6" fill="#66ccff">
+      <animate attributeName="cy" dur="2.2s" values="160;150;165;160" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="70" cy="160" r="6" fill="#66ccff">
+      <animate attributeName="cx" dur="2s" values="70;75;65;70" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="120" cy="200" r="6" fill="#66ccff">
+      <animate attributeName="cy" dur="1.8s" values="200;190;205;200" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- shimmering bonds -->
+    <line x1="120" y1="120" x2="170" y2="160" stroke="#66ccff66" stroke-width="2">
+      <animate attributeName="stroke-opacity" dur="2s" values="0.4;1;0.4" repeatCount="indefinite"/>
+    </line>
+    <line x1="120" y1="120" x2="70" y2="160" stroke="#66ccff66" stroke-width="2">
+      <animate attributeName="stroke-opacity" dur="1.7s" values="0.4;1;0.4" repeatCount="indefinite"/>
+    </line>
+    <line x1="70" y1="160" x2="120" y2="200" stroke="#66ccff66" stroke-width="2">
+      <animate attributeName="stroke-opacity" dur="2.3s" values="0.4;1;0.4" repeatCount="indefinite"/>
+    </line>
+    <line x1="170" y1="160" x2="120" y2="200" stroke="#66ccff66" stroke-width="2">
+      <animate attributeName="stroke-opacity" dur="1.9s" values="0.4;1;0.4" repeatCount="indefinite"/>
+    </line>
+
+    <!-- label -->
+    <text x="120" y="235" fill="#66ccff" font-size="16" text-anchor="middle">MD • Nanomaterials</text>
+  </g>
+
+  <!-- ARROW 1 -->
+  <text x="260" y="150" fill="#fff" font-size="32">➡</text>
+
+  <!-- SECTION 2 — DFT ELECTRON DENSITY -->
+  <g id="dft">
+    <circle cx="350" cy="150" r="25" fill="none" stroke="#ffaa00" stroke-width="3">
+      <animate attributeName="r" dur="2.2s" values="22;32;24;25" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="350" cy="150" r="45" fill="none" stroke="#ffaa00" stroke-width="2" opacity="0.4">
+      <animate attributeName="opacity" dur="3s" values="0.2;0.7;0.2" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="350" y="235" fill="#ffaa00" font-size="16" text-anchor="middle">DFT • Electron Density</text>
+  </g>
+
+  <!-- ARROW 2 -->
+  <text x="460" y="150" fill="#fff" font-size="32">➡</text>
+
+  <!-- SECTION 3 — ML NEURAL NETWORK -->
+  <g id="ml">
+    <!-- input layer -->
+    <circle cx="550" cy="110" r="6" fill="#ff66aa">
+      <animate attributeName="r" dur="1.6s" values="5;8;5" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="550" cy="190" r="6" fill="#ff66aa">
+      <animate attributeName="r" dur="2s" values="5;8;5" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- output neuron -->
+    <circle cx="650" cy="150" r="9" fill="#ffffff">
+      <animate attributeName="r" dur="2s" values="9;14;9" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- connections -->
+    <line x1="550" y1="110" x2="650" y2="150" stroke="#ff66aa88" stroke-width="2"/>
+    <line x1="550" y1="190" x2="650" y2="150" stroke="#ff66aa88" stroke-width="2"/>
+
+    <!-- label -->
+    <text x="600" y="235" fill="#ff66aa" font-size="16" text-anchor="middle">Machine Learning</text>
+  </g>
+
+</svg>
