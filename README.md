@@ -4,8 +4,8 @@
 I model and investigate the properties of **nanomaterials** using a multi-scale approach, from electronic structure to large-scale simulations.
 
 ###
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-720+_citations-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=4zGRuLQAAAAJ)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3239--8319-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3239-8319)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-720+_citations-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.br/citations?user=8q0PxB0AAAAJ&hl=pt-BR)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3239--8319-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2404-7789)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alastair_Price-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alastair-price-6bba6611b/)
 [![Website](https://img.shields.io/badge/Website-albdprice.github.io-222222?style=flat-square&logo=github-pages&logoColor=white)](https://albdprice.github.io)
 [![CV](https://img.shields.io/badge/CV-Download_PDF-red?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/albdprice/cv)
