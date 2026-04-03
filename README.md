@@ -17,15 +17,13 @@ I model and investigate the properties of **nanomaterials** using a multi-scale 
 ###
 ---
 
-### 🔬 Research Interests
+### 🌀 Research Interests
 
-- **Electronic Structure Calculations (DFT):** Investigating band gaps, DOS, and charge density in 2D materials.
-- **Molecular Dynamics (MD):** Thermal transport and mechanical properties of carbon-based nanostructures.
-- **High-Performance Computing (HPC):** Optimization of scripts for cluster environments (Slurm/PBS).
+- **Electronic Structure Calculations (DFT)** 
+- **Molecular Dynamics (MD) simulations** 
+- **Machine Learning Interatomic Potentials (MLIPs)**
 
----
-
-### 🔬 Scientific Software Stack
+### 🖥️ Scientific Software Stack
 
 ###
 
@@ -46,7 +44,6 @@ I model and investigate the properties of **nanomaterials** using a multi-scale 
 </div>
 
 ###
-*Research tools for DFT, Molecular Dynamics, and Machine Learning*
 
 <div align="center">
   <!-- DFT Logos -->
