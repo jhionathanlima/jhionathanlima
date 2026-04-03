@@ -49,20 +49,20 @@ I model and investigate the properties of **nanomaterials** using a multi-scale 
 
 <div align="center">
   <!-- MD & ML Logos -->
-  <a href="https://lammps.org"><img src="https://lammps.orgimages/lammps-logo.png" height="55" alt="LAMMPS" title="LAMMPS"></a>
+  <a href="https://lammps.org"><img src="https://www.lammps.org/movies/logo.gif" height="55" alt="LAMMPS" title="LAMMPS"></a>
   <img width="35" />
-  <a href="https://gpumd.org"><img src="https://gpumd.org_images/gpumd_logo.png" height="55" alt="GPUMD" title="GPUMD"></a>
+  <a href="https://gpumd.org"><img src="https://gpumd.org/_static/logo.png" height="55" alt="GPUMD" title="GPUMD"></a>
   <img width="35" />
-  <a href="https://deepmd.org"><img src="https://deepmd.orgassets/images/logo.png" height="45" alt="DeepMD-kit" title="DeepMD-kit"></a>
+  <a href="https://deepmd.org"><img src="https://docs.deepmodeling.com/projects/deepmd/en/master/_static/logo-dark.svg" height="45" alt="DeepMD-kit" title="DeepMD-kit"></a>
 </div>
 
 <div align="center">
   <!-- Visualization & Analysis Logos -->
-  <a href="https://dtu.dk"><img src="https://dtu.dk_static/ase_logo.png" height="50" alt="ASE" title="Atomic Simulation Environment (ASE)"></a>
+  <a href="https://dtu.dk"><img src="https://ase-lib.org/_static/ase256.png" height="50" alt="ASE" title="Atomic Simulation Environment (ASE)"></a>
   <img width="30" />
-  <a href="https://ovito.org"><img src="https://ovito.orgwp-content/uploads/2021/01/ovito_logo_site.png" height="50" alt="OVITO" title="OVITO"></a>
+  <a href="https://ovito.org"><img src="https://ovito.org/_astro/ovito_logo_256.BAk4uGrH_Z1hIFve.webp" height="50" alt="OVITO" title="OVITO"></a>
   <img width="30" />
   <a href="https://uiuc.edu"><img src="https://uiuc.eduvmd_logo_small.jpg" height="50" alt="VMD" title="Visual Molecular Dynamics (VMD)"></a>
   <img width="30" />
-  <a href="https://jp-minerals.org"><img src="https://jp-minerals.orgimages/VESTA_logo.png" height="50" alt="VESTA" title="VESTA"></a>
+  <a href="https://jp-minerals.org"><img src="https://jp-minerals.org/vesta/img/banner-logo.png" height="50" alt="VESTA" title="VESTA"></a>
 </div>
