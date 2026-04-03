@@ -82,5 +82,3 @@ I model and investigate the properties of **nanomaterials** using a multi-scale 
 </div>
 
 ---
-
-![Nanomaterials Banner](./banner.svg)
