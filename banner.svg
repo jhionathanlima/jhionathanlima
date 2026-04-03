@@ -1,0 +1,91 @@
+<svg viewBox="0 0 800 260" xmlns="http://w3.org">
+  <defs>
+    <!-- Glow Filter for Neon effect on graphics and text -->
+    <filter id="glow" x="-25%" y="-25%" width="150%" height="150%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <radialGradient id="dftGradient">
+      <stop offset="0%" stop-color="#ffaa00" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#ffaa00" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <style>
+    text { font-family: 'Segoe UI', Tahoma, sans-serif; }
+
+    /* Graphene Vibration */
+    @keyframes thermal {
+      0%, 100% { transform: translate(0,0); }
+      25% { transform: translate(0.6px, -0.6px); }
+      50% { transform: translate(-0.6px, 0.6px); }
+      75% { transform: translate(0.6px, 0.6px); }
+    }
+
+    /* ML Nodes Fading (On/Off effect) */
+    @keyframes blink {
+      0%, 100% { opacity: 0.3; }
+      50% { opacity: 1; }
+    }
+
+    .vibrate { animation: thermal 0.15s infinite; }
+    .blink-node { animation: blink 2s infinite ease-in-out; }
+
+    @media (prefers-color-scheme: dark) { .label-main { fill: #fff; opacity: 0.9; } .arrow { fill: #666; } }
+    @media (prefers-color-scheme: light) { .label-main { fill: #222; } .arrow { fill: #ccc; } }
+  </style>
+
+  <!-- TITLE -->
+  <g filter="url(#glow)">
+    <text x="400" y="35" font-size="20" font-weight="bold" text-anchor="middle" class="label-main">
+      COMPUTATIONAL NANOMATERIALS SCIENCE
+    </text>
+  </g>
+
+  <line x1="180" y1="150" x2="600" y2="150" stroke="#888" stroke-width="0.5" stroke-dasharray="5,5" opacity="0.2" />
+
+  <!-- SECTION 1: MOLECULAR DYNAMICS (VIBRATING) -->
+  <g id="md-section" filter="url(#glow)">
+    <g class="vibrate" stroke="#00d4ff" stroke-width="1.5">
+      <path fill="none" d="M 80 140 L 100 130 L 120 140 L 120 160 L 100 170 L 80 160 Z M 120 140 L 140 130 L 160 140 L 160 160 L 140 170 L 120 160 M 100 170 L 120 180 L 140 170 M 100 130 L 120 120 L 140 130" opacity="0.6" />
+      <g fill="#00d4ff">
+        <circle cx="80" cy="140" r="3.5" /><circle cx="100" cy="130" r="3.5" /><circle cx="120" cy="140" r="3.5" /><circle cx="120" cy="160" r="3.5" /><circle cx="100" cy="170" r="3.5" /><circle cx="80" cy="160" r="3.5" /><circle cx="140" cy="130" r="3.5" /><circle cx="160" cy="140" r="3.5" /><circle cx="160" cy="160" r="3.5" /><circle cx="140" cy="170" r="3.5" /><circle cx="120" cy="180" r="3.5" /><circle cx="120" cy="120" r="3.5" />
+      </g>
+    </g>
+    <text x="120" y="235" fill="#00d4ff" font-family="monospace" font-size="12" text-anchor="middle">Molecular Dynamics</text>
+  </g>
+
+  <!-- SECTION 2: DFT (STATIC) -->
+  <g id="dft-section" filter="url(#glow)">
+    <circle cx="360" cy="150" r="35" fill="url(#dftGradient)" opacity="0.6" />
+    <circle cx="360" cy="150" r="12" fill="#ffaa00" />
+    <circle cx="360" cy="150" r="45" fill="none" stroke="#ffaa00" stroke-width="0.5" opacity="0.3" stroke-dasharray="2,2" />
+    <text x="360" y="235" fill="#ffaa00" font-family="monospace" font-size="12" text-anchor="middle">Density Functional Theory</text>
+  </g>
+
+  <!-- SECTION 3: MACHINE LEARNING (BLINKING NODES) -->
+  <g id="ml-section" filter="url(#glow)">
+    <g stroke="#ff66aa" stroke-width="1" opacity="0.3">
+      <line x1="580" y1="110" x2="620" y2="100" /><line x1="580" y1="110" x2="620" y2="135" /><line x1="580" y1="110" x2="620" y2="170" /><line x1="580" y1="110" x2="620" y2="205" />
+      <line x1="580" y1="190" x2="620" y2="100" /><line x1="580" y1="190" x2="620" y2="135" /><line x1="580" y1="190" x2="620" y2="170" /><line x1="580" y1="190" x2="620" y2="205" />
+      <line x1="620" y1="100" x2="670" y2="150" /><line x1="620" y1="135" x2="670" y2="150" /><line x1="620" y1="170" x2="670" y2="150" /><line x1="620" y1="205" x2="670" y2="150" />
+    </g>
+    <g class="blink-node">
+      <circle cx="580" cy="110" r="4" fill="#ff66aa" />
+      <circle cx="580" cy="190" r="4" fill="#ff66aa" />
+      <circle cx="620" cy="100" r="3" fill="#fff" />
+      <circle cx="620" cy="135" r="3" fill="#fff" />
+      <circle cx="620" cy="170" r="3" fill="#fff" />
+      <circle cx="620" cy="205" r="3" fill="#fff" />
+      <circle cx="670" cy="150" r="7" fill="#ff66aa" />
+    </g>
+    <text x="625" y="235" fill="#ff66aa" font-family="monospace" font-size="12" text-anchor="middle">Machine Learning</text>
+  </g>
+
+  <!-- Arrows -->
+  <g filter="url(#glow)">
+    <text x="250" y="155" class="arrow" font-size="20">≫</text>
+    <text x="480" y="155" class="arrow" font-size="20">≫</text>
+  </g>
+</svg>
