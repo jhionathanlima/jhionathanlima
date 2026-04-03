@@ -38,11 +38,11 @@ I model and investigate the properties of **nanomaterials** using a multi-scale 
   <!-- DFT Logos -->
   <a href="https://fhi-aims.org/"><img src="https://fhi-aims.org/uploads/themes/FHIaims/logo.svg" height="40" alt="FHI-aims" title="FHI-aims"></a>
   <img width="25" />
-  <a href="https://quantum-espresso.org"><img src="https://quantum-espresso.orgproject/logos/Quantum_espresso_logo.jpg" height="45" alt="Quantum ESPRESSO" title="Quantum ESPRESSO"></a>
+  <a href="https://quantum-espresso.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Quantum_ESPRESSO_logo.jpg/1920px-Quantum_ESPRESSO_logo.jpg" height="45" alt="Quantum ESPRESSO" title="Quantum ESPRESSO"></a>
   <img width="25" />
-  <a href="https://vasp.at"><img src="https://vasp.atmedia/logo.png" height="45" alt="VASP" title="VASP"></a>
+  <a href="https://vasp.at"><img src="https://www.vasp.at/images/logo.png" height="45" alt="VASP" title="VASP"></a>
   <img width="25" />
-  <a href="https://siesta-project.org"><img src="https://siesta-project.orgsiesta/siesta_logo.png" height="45" alt="SIESTA" title="SIESTA"></a>
+  <a href="https://siesta-project.org"><img src="https://siesta-project.org/siesta/SIESTA-logo-233x125.png" height="45" alt="SIESTA" title="SIESTA"></a>
 </div>
 
 <br />
