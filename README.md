@@ -83,4 +83,8 @@ I model and investigate the properties of **nanomaterials** using a multi-scale 
 
 ---
 
-![Nanomaterials Banner](./banner.svg)
+<!--![Nanomaterials Banner](./banner.svg)  -->
+
+<p align="center">
+  <img src="./banner.svg?v=1" width="800">
+</p>
