@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jhionathan. Teaching machines how atoms dance.</h1>
+<h1 align="center"><i>Playing with atoms on the computer</h1>
 
 ### 🎓 PhD Candidate in Computational Physics | UFPR, Brazil
 
