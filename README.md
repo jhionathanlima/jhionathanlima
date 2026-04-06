@@ -9,11 +9,12 @@ I model and characterize nanomaterials using a multi-scale approach, from electr
 </p>
 
 ###
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4+_citations-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.br/citations?user=8q0PxB0AAAAJ&hl=pt-BR)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2404--7789-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2404-7789)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4+_citations-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com.br/citations?user=8q0PxB0AAAAJ&hl=pt-BR)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2404--7789-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2404-7789)
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alastair_Price-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alastair-price-6bba6611b/)
-[![Website](https://img.shields.io/badge/Website-albdprice.github.io-222222?style=flat-square&logo=github-pages&logoColor=white)](https://albdprice.github.io)
-[![CV](https://img.shields.io/badge/CV-Download_PDF-red?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/albdprice/cv) -->
+[![Website](https://img.shields.io/badge/Website-albdprice.github.io-222222?style=flat-square&logo=github-pages&logoColor=white)](https://albdprice.github.io) -->
+[![CV](https://img.shields.io/badge/CV-Download_PDF-red?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/albdprice/cv)
+[![Static Badge](https://img.shields.io/badge/CV-Lattes-6A0DAD)](http://lattes.cnpq.br/6979567573954862)
 
 ###
 ---
