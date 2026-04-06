@@ -2,7 +2,7 @@
 
 ### 🎓 PhD Candidate in Computational Physics | UFPR, Brazil
 
-I model and investigate the properties of **nanomaterials** using a multi-scale approach, from electronic structure to large-scale simulations.
+I model and characterize nanomaterials using a multi-scale approach, from electronic structure to large-scale simulations.
 
 <p align="center">
   <img src="./banner.svg?v=3" width="800">
@@ -20,11 +20,11 @@ I model and investigate the properties of **nanomaterials** using a multi-scale 
 
 ### 🌀 Research Interests
 
-- **Electronic Structure Calculations (DFT)** 
-- **Molecular Dynamics (MD) simulations** 
-- **Machine Learning Interatomic Potentials (MLIPs)**
+- Electronic Structure Calculations (DFT)
+- Molecular Dynamics (MD) simulations 
+- Machine Learning Interatomic Potentials (MLIPs)
 
-### 🖥️ Scientific Software Stack
+### 🛠️ Scientific Software Skills
 
 ###
 
